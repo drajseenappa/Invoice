@@ -67,9 +67,9 @@ function PdfTemplate(props) {
                                         <Barcode value={`4n%${props.InvoiceNumber}+ut%`} width={1} height={50} displayValue={false} />
                                     </div>
                                     <div className="col-md-8 text-right bbc">
-                                        <h4 style={{ color: '#325aa8' }}><strong>KISHOR STORES</strong></h4>
-                                        <p>(+91)7619634534</p>
-                                        <p>kishukishu20@.com</p>
+                                        <h4 style={{ color: '#325aa8' }}><strong>DHEERAJ STORES</strong></h4>
+                                        <p>(+91)8971672280</p>
+                                        <p>seenappadheeraj@.com</p>
                                     </div>
                                 </div>
                                 <br />
@@ -136,8 +136,8 @@ function PdfTemplate(props) {
                                     <div className="col-md-12">
                                         <p><b>Date :</b> {props.date} </p>
                                         <br />
-                                        <p><b>KIHOR PROVISION STORES</b></p>
-                                        <p><b>Contact: (+91)7619634534</b></p>
+                                        <p><b>DHHERAJ PROVISION STORES</b></p>
+                                        <p><b>Contact: (+91)8971672280</b></p>
                                     </div>
                                 </div>
                             </div>
